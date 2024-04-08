@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a network:(AlgoExpert)</b>
+- <b>Building a network:</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
