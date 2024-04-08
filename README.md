@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kyle!</h1>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📄 Certifications:</h2>
 <b>CompTIA Security+: https://www.credly.com/badges/34b287d3-4969-4c76-89e8-29fe1347b30c/linked_in?t=s4xuyt</b>
 
 
